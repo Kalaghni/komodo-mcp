@@ -4,6 +4,8 @@ version = "0.1.0"
 edition = "2024"
 description = "MCP server for the Komodo deployment platform: inspect servers, stacks, swarms and builds, and optionally deploy"
 rust-version = "1.88"
+license = "MIT"
+repository = "https://github.com/Kalaghni/komodo-mcp"
 
 [dependencies]
 anyhow = "1.0.104"

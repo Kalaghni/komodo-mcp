@@ -203,3 +203,7 @@ Source layout:
 - `src/komodo.rs`: the HTTP client
 - `src/server.rs`: the MCP tools and guard rails
 - `src/format.rs`: rendering logs, updates and JSON for the model
+
+## License
+
+[MIT](LICENSE)
